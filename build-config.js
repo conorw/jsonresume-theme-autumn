@@ -10,7 +10,7 @@ module.exports = {
 
   TEMPLATE_FILENAME: 'resume.hbs',
   HTML_FILENAME: 'index.html',
-  CSS_FILENAME: STYLES_DIR + '/resume.css',
+  CSS_FILENAME: '/styles/resume.css',
 
   RESUME_PATH: __dirname + '/resume.json',
   FALLBACK_RESUME_PATH: __dirname + '/resume-sample.json',
